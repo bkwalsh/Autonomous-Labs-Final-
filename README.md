@@ -1,3 +1,5 @@
+# SEE WRITEUP.pdf for formal write up
+
 # LLM-based article processing pipeline 
 
 This repository contains text processing code relevant to the class CMSC 35360 at the University of Chicago. There are two directories:
