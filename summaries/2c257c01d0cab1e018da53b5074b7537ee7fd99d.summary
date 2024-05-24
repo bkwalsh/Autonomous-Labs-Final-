@@ -1,9 +1,0 @@
-{
-"TITLE": "A protective role for B-1 cells and oxidation-specific epitope IgM in lung fibrosis",
-"YEAR": 2024,
-"KEY FINDINGS": "B-1 cells are recruited to the lung during injury where they secrete IgM to oxidation-specific epitopes (OSE), and this response is protective against lung fibrosis. The chemokine receptor CXCR4 is involved in B-1 cell homing to the lung, and the transcription factor Id3 is a negative regulator of CXCR4 expression.",
-"MAIN RESULT": "Increased levels of pulmonary B-1 cells and IgM are protective from fibrosis, while loss of secreted IgM worsens lung injury and fibrosis.",
-"HYPOTHESIS": "B-1 cells and IgM play a critical role in limiting lung injury and fibrosis by modulating the complement system and extracellular matrix deposition.",
-"EXPERIMENT": "To validate this hypothesis, an experiment could be designed to test the effect of B-1 cell-derived IgM on complement activation and extracellular matrix deposition in the lung. This could be achieved by isolating B-1 cells from the lungs of mice with bleomycin-induced lung injury and culturing them in vitro to produce IgM. The IgM would then be added to lung fibroblasts and the effect on complement activation and extracellular matrix deposition would be measured using Western blot and qRT-PCR. Required equipment: cell culture facilities, Western blot apparatus, qRT-PCR machine, and reagents for cell isolation and culture.",
-"KEYWORDS": ["B-1 cells", "IgM", "oxidation-specific epitopes", "lung fibrosis", "CXCR4", "Id3", "complement system", "extracellular matrix deposition", "bleomycin", "lung injury"]
-}

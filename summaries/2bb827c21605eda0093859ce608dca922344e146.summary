@@ -1,9 +1,0 @@
-{
-"TITLE": "A Comprehensive Review of Small-Molecule Inhibitors Targeting Bruton Tyrosine Kinase: Synthetic Approaches and Clinical Applications",
-"YEAR": 2023,
-"KEY FINDINGS": "The paper reviews the development of small-molecule inhibitors targeting Bruton tyrosine kinase (BTK), a crucial enzyme in B-cell receptor signaling pathways, and their clinical applications in treating B-cell malignancies and autoimmune diseases.",
-"MAIN RESULT": "The paper highlights the efficacy and safety of BTK inhibitors, such as Ibrutinib, Acalabrutinib, and Zanubrutinib, in treating various B-cell malignancies and autoimmune diseases, and discusses the development of new generation BTK inhibitors with improved selectivity and potency.",
-"HYPOTHESIS": "Non-covalent BTK inhibitors may offer improved safety and efficacy profiles compared to covalent inhibitors, which are prone to off-target effects and tolerability issues.",
-"EXPERIMENT": "To validate this hypothesis, a comparative study can be designed to evaluate the efficacy and safety of a non-covalent BTK inhibitor (e.g., Pirtobrutinib) versus a covalent BTK inhibitor (e.g., Ibrutinib) in a mouse model of B-cell lymphoma. The experiment would require: 1) cell lines and mouse models of B-cell lymphoma, 2) BTK inhibitors, 3) Western blot and qRT-PCR analysis, 4) flow cytometry, and 5) in vivo tumor growth and survival assays. The study would assess the inhibition of BTK activity, tumor growth, and survival rates, as well as potential off-target effects and toxicities.",
-"KEYWORDS": ["Bruton tyrosine kinase", "BTK inhibitors", "small-molecule inhibitors", "B-cell malignancies", "autoimmune diseases", "Ibrutinib", "Acalabrutinib", "Zanubrutinib", "Pirtobrutinib", "non-covalent inhibitors", "covalent inhibitors"]
-}

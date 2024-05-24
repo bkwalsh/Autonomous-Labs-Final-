@@ -1,9 +1,0 @@
-{
-"TITLE": "Quantitative modelling of signaling in aggressive B cell lymphoma unveils conserved core network",
-"YEAR": 2024,
-"KEY FINDINGS": "The study used a semi-quantitative modeling approach to investigate the B cell receptor (BCR) signaling network in Burkitt lymphoma (BL) cells. The model revealed a conserved core network with feedback and crosstalk structures, including a negative crosstalk from p38 to MEK/ERK.",
-"MAIN RESULT": "The study identified a conserved core BCR-regulated signaling network in BL cells, which was transferable to other BL cell lines and even to Diffuse large B cell lymphoma (DLBCL) cells with aberrant BCR signaling.",
-"HYPOTHESIS": "The negative crosstalk from p38 to MEK/ERK is a key regulatory mechanism in BCR signaling, and its dysregulation contributes to the development of aggressive B cell lymphoma.",
-"EXPERIMENT": "To validate this hypothesis, an experiment could be designed to specifically inhibit p38 activity in BL cells and measure the effect on MEK/ERK phosphorylation and downstream signaling. Required equipment: BL cells, p38 inhibitors (e.g. SB203580), Western blotting equipment, and antibodies against p38, MEK, ERK, and phosphorylated forms of these proteins. Steps: 1) Treat BL cells with p38 inhibitors for 3 hours, 2) Stimulate cells with BCR activation, 3) Measure phosphorylation of MEK and ERK by Western blotting, 4) Compare results to control cells without p38 inhibition.",
-"KEYWORDS": ["B cell receptor signaling", "Burkitt lymphoma", "conserved core network", "negative crosstalk", "p38", "MEK/ERK", "quantitative modeling", "signaling network", "aggressive B cell lymphoma", "Diffuse large B cell lymphoma"]
-}

@@ -1,9 +1,0 @@
-{
-"TITLE": "Kinetics of free and ligand-bound atacicept in human serum",
-"YEAR": 2022,
-"KEY FINDINGS": "The study characterized the kinetics of free and ligand-bound atacicept in human serum, showing that unbound atacicept exceeded 0.1 μg/ml for one week post-administration or throughout a 1-year treatment with weekly administrations. Endogenous BAFF bound to atacicept was detected after 8 hours and increased about 100-fold within 2-4 weeks, while atacicept-APRIL complexes were not detected.",
-"MAIN RESULT": "The study demonstrated that only biologically inactive BAFF and BAFF-APRIL heteromers accumulate on atacicept in vivo.",
-"HYPOTHESIS": "The accumulation of BAFF on atacicept may lead to a negative feedback loop, reducing the production of BAFF and APRIL, which could contribute to the therapeutic effects of atacicept in autoimmune diseases.",
-"EXPERIMENT": "To validate this hypothesis, an experiment could be designed to measure the levels of BAFF and APRIL in the serum of patients treated with atacicept over time. The experiment would require: 1) serum samples from patients treated with atacicept, 2) ELISA kits for BAFF and APRIL, 3) a plate reader, and 4) statistical analysis software. The steps would be: 1) collect serum samples from patients at different time points, 2) perform ELISA to measure BAFF and APRIL levels, 3) analyze the data using statistical software, and 4) compare the results to a control group not treated with atacicept.",
-"KEYWORDS": ["atacicept", "BAFF", "APRIL", "autoimmune diseases", "pharmacokinetics", "pharmacodynamics", "ligand binding", "heteromers", "negative feedback loop", "therapeutic effects"]
-}

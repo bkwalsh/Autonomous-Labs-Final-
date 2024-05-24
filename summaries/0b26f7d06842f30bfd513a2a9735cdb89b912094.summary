@@ -1,9 +1,0 @@
-{
-"TITLE": "Single-cell intracellular epitope and transcript detection revealing signal transduction dynamics",
-"YEAR": 2020,
-"KEY FINDINGS": "The paper presents a new method called QuRIE-seq that allows for the simultaneous detection of intracellular epitopes and transcripts at the single-cell level, enabling the study of signal transduction dynamics at multiple timescales.",
-"MAIN RESULT": "The authors demonstrate the power of QuRIE-seq by applying it to the study of B-cell receptor signaling in Burkitt lymphoma cells, revealing novel insights into the dynamics of signal transduction and the mechanism of action of the drug Ibrutinib.",
-"HYPOTHESIS": "The paper proposes that the unexpected activation of JAK1 by BCR activation is a key event in the regulation of B-cell signaling, and that this event is independent of canonical JAK1 activation by cytokines.",
-"EXPERIMENT": "To validate this hypothesis, an experiment could be designed to specifically inhibit JAK1 phosphorylation in B cells and measure the effect on BCR signaling. This could be achieved using CRISPR-Cas9 genome editing to knockout JAK1 in B cells, followed by stimulation with anti-IgG and measurement of downstream signaling events using QuRIE-seq. The required equipment would include a CRISPR-Cas9 genome editing system, a QuRIE-seq platform, and a flow cytometer. The steps to follow would be: 1) design and validate guide RNAs targeting JAK1, 2) perform CRISPR-Cas9 genome editing in B cells, 3) validate JAK1 knockout using Western blot or qRT-PCR, 4) stimulate edited B cells with anti-IgG, 5) perform QuRIE-seq to measure downstream signaling events, 6) analyze data using MOFA+ to identify changes in signaling dynamics.",
-"KEYWORDS": ["QuRIE-seq", "single-cell omics", "signal transduction", "B-cell receptor signaling", "JAK1", "Ibrutinib", "Burkitt lymphoma", "CRISPR-Cas9", "genome editing", "MOFA+"]
-}

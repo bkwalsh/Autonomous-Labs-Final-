@@ -1,9 +1,0 @@
-{
-"TITLE": "TARGETING NF-KB SIGNALLING IN B CELLS: A POTENTIAL NEW TREATMENT MODALITY FOR ANCA-ASSOCIATED VASCULITIS",
-"YEAR": 2019,
-"KEY FINDINGS": "Inhibition of NF-kB signalling in B cells from AAV patients and healthy donors reduced B cell proliferation and differentiation towards plasmablasts, and attenuated functional antibody production.",
-"MAIN RESULT": "Targeting NF-kB signalling in B cells may be an effective novel treatment modality for AAV.",
-"HYPOTHESIS": "Inhibition of NF-kB signalling in B cells may specifically target autoreactive B cells in AAV, leading to reduced disease activity.",
-"EXPERIMENT": "To validate this hypothesis, sort B cells from AAV patients and healthy donors, and culture them with autoreactive antigens in the presence or absence of NF-kB inhibitors. Measure B cell proliferation, differentiation, and antibody production using flow cytometry and ELISA. Use confocal imaging to assess nuclear NF-kB translocation. Required equipment: flow cytometer, ELISA reader, confocal microscope, cell culture facilities.",
-"KEYWORDS": ["ANCA-associated vasculitis", "B cells", "NF-kB signalling", "autoimmune disease", "rituximab", "B cell depletion", "plasmablasts", "antibody production", "T cell-independent stimulation", "canonical NF-kB signalling", "non-canonical NF-kB signalling"]
-}

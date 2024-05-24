@@ -1,9 +1,0 @@
-{
-"TITLE": "MOLECULAR FEATURES OF CIRCULATORY B CELLS AND RENAL CELLS AT THE SINGLE-CELL LEVEL IN AUTOANTIBODY-NEGATIVE PRIMARY MEMBRANOUS NEPHROPATHY PATIENTS",
-"YEAR": 2024,
-"KEY FINDINGS": "The study found that antibody-negative primary membranous nephropathy (PMN) patients have distinct molecular features in circulatory B cells and renal cells, including changes in naive B cells, memory B cells, and glomerular parietal epithelial cells.",
-"MAIN RESULT": "The study identified a group of transitional B cells with distinct molecular characteristics and function features in antibody-negative PMN patients, which may play a role in the pathogenesis of the disease.",
-"HYPOTHESIS": "The transitional B cells identified in antibody-negative PMN patients may be involved in the production of autoantibodies against podocyte antigens, leading to the development of PMN.",
-"EXPERIMENT": "To validate this hypothesis, a flow cytometry-based assay can be performed to sort and analyze the transitional B cells from antibody-negative PMN patients. The sorted cells can be cultured in vitro and stimulated with podocyte antigens to assess their ability to produce autoantibodies. The experiment would require a flow cytometer, cell culture facilities, and reagents for cell stimulation and antibody detection.",
-"KEYWORDS": ["Primary membranous nephropathy", "Antibody-negative", "Single-cell RNA sequencing", "B cells", "Renal cells", "Transitional B cells", "Autoantibodies", "Podocyte antigens", "Nephrotic syndrome", "Glomerular parietal epithelial cells"]
-}

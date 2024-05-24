@@ -1,9 +1,0 @@
-{
-"TITLE": "Cellular surface plasmon resonance-based detection of anti-HPA-1a antibody glycosylation in fetal and neonatal alloimmune thrombocytopenia",
-"YEAR": 2023,
-"KEY FINDINGS": "The study developed a cellular surface plasmon resonance imaging (cSPRi) technique to quantify the biological activity of IgG antibodies targeting cells, specifically anti-HPA-1a antibodies in fetal and neonatal alloimmune thrombocytopenia (FNAIT). The technique uses FcgRIII-binding to IgG-opsonized cells and correlates with mass spectrometry (MS) analysis of IgG glycosylation.",
-"MAIN RESULT": "The ratio of patient signal from the WT versus FcgRIIIa-N162A correlated with the fucosylation of the HPA-1a antibodies measured by MS (r=-0.52).",
-"HYPOTHESIS": "The glycosylation pattern of anti-HPA-1a antibodies influences their binding affinity to FcgRIIIa, which in turn affects the severity of FNAIT.",
-"EXPERIMENT": "To validate this hypothesis, an experiment can be designed to compare the binding affinity of afucosylated and fucosylated anti-HPA-1a antibodies to FcgRIIIa using cSPRi. Required equipment: cSPRi instrument, FcgRIIIa-expressing cells, afucosylated and fucosylated anti-HPA-1a antibodies, and platelets. Steps: 1) Prepare afucosylated and fucosylated anti-HPA-1a antibodies using site-directed mutagenesis and expression in HEK293F cells. 2) Opsonize platelets with the prepared antibodies. 3) Perform cSPRi measurements using FcgRIIIa-expressing cells as detectors. 4) Compare the binding affinity of afucosylated and fucosylated anti-HPA-1a antibodies to FcgRIIIa.",
-"KEYWORDS": ["FNAIT", "thrombocytopenia", "SPRi", "IgG", "fucosylation", "platelet", "FcgRIIIa", "alloimmune", "glycosylation", "antibody"]
-}

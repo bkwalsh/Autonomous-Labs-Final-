@@ -1,9 +1,0 @@
-{
-"TITLE": "Targeting MyD88 Downregulates Inflammatory Mediators and Pathogenic Processes in PBMC From DMARDs-Naïve Rheumatoid Arthritis Patients",
-"YEAR": 2021,
-"KEY FINDINGS": "The study found that MyD88 inhibition by ST2825 downregulates pro-inflammatory gene expression signatures and pathogenic processes in peripheral blood mononuclear cells (PBMC) from DMARDs-naïve rheumatoid arthritis (RA) patients.",
-"MAIN RESULT": "The study demonstrated that ST2825 treatment of PBMC from DMARDs-naïve RA patients leads to a gene expression signature similar to that of healthy controls, with downregulation of pro-inflammatory cytokines, chemokines, and matrix metalloproteases.",
-"HYPOTHESIS": "MyD88 inhibition may prevent joint degeneration and synovitis in RA patients by downregulating the expression of genes involved in pathogenic processes in the RA synovium.",
-"EXPERIMENT": "To validate this hypothesis, an in vitro experiment can be designed to test the effect of ST2825 on the expression of genes involved in pathogenic processes in RA synovial cells. The experiment would require: 1) RA synovial cells, 2) ST2825, 3) LPS, 4) RNA extraction kit, 5) qRT-PCR machine. Steps: 1) Treat RA synovial cells with LPS and/or ST2825, 2) Extract RNA from treated cells, 3) Perform qRT-PCR to measure the expression of genes involved in pathogenic processes, 4) Compare the expression levels between LPS-treated and LPS+ST2825-treated cells.",
-"KEYWORDS": ["Rheumatoid Arthritis", "MyD88", "DMARDs", "Inflammation", "Synovitis", "ST2825", "Peripheral Blood Mononuclear Cells", "Gene Expression", "Pathogenic Processes", "Joint Degeneration"]
-}

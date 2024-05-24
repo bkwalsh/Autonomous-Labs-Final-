@@ -1,9 +1,0 @@
-{
-"TITLE": "Proteolysis Targeting Chimeras for BTK Efficiently Inhibit B-Cell Receptor Signaling and Can Overcome Ibrutinib Resistance in CLL Cells",
-"YEAR": 2021,
-"KEY FINDINGS": "The study demonstrates the efficacy of Proteolysis Targeting Chimeras (PROTACs) in degrading Bruton's tyrosine kinase (BTK) and inhibiting B-cell receptor (BCR) signaling in chronic lymphocytic leukemia (CLL) cells, including those with ibrutinib resistance.",
-"MAIN RESULT": "The PROTAC NC-1 efficiently degraded BTK and inhibited BCR signaling in CLL cells, including those with ibrutinib resistance, and showed potential as a novel therapeutic approach for CLL.",
-"HYPOTHESIS": "PROTAC-mediated BTK degradation can overcome ibrutinib resistance in CLL cells by targeting the protein for proteasomal degradation, rather than relying on binding to the active site.",
-"EXPERIMENT": "To validate this hypothesis, an experiment could be designed to compare the efficacy of PROTAC NC-1 and ibrutinib in inhibiting BCR signaling in CLL cells with ibrutinib resistance. The experiment would require: 1) CLL cells with ibrutinib resistance, 2) PROTAC NC-1 and ibrutinib, 3) Western blot analysis equipment, and 4) flow cytometry equipment. Steps: 1) Treat CLL cells with PROTAC NC-1 or ibrutinib, 2) Stimulate cells with anti-IgM, 3) Analyze BCR signaling proteins by Western blot, and 4) Measure cell surface expression of activation markers by flow cytometry. The results would show whether PROTAC NC-1 is more effective than ibrutinib in inhibiting BCR signaling in ibrutinib-resistant CLL cells.",
-"KEYWORDS": ["Proteolysis Targeting Chimeras", "Bruton's tyrosine kinase", "B-cell receptor signaling", "Chronic lymphocytic leukemia", "Ibrutinib resistance", "PROTACs", "BTK degradation", "BCR pathway", "Cancer therapy", "Targeted therapy"]
-}

@@ -1,9 +1,0 @@
-{
-"TITLE": "Cytoplasmic FOXO1 identifies a novel disease-activity associated B cell phenotype in SLE",
-"YEAR": 2018,
-"KEY FINDINGS": "The study found that patients with Systemic Lupus Erythematosus (SLE) have a higher percentage of B cells with cytoplasmic FOXO1 (CytoFOX) compared to healthy individuals, and that the levels of CytoFOX B cells correlate with disease activity.",
-"MAIN RESULT": "The study identified a novel biomarker for SLE disease activity, which is the presence of CytoFOX B cells.",
-"HYPOTHESIS": "CytoFOX B cells in SLE patients are more activated and have a higher potential to produce autoantibodies, contributing to the pathogenesis of SLE.",
-"EXPERIMENT": "To validate this hypothesis, an experiment can be designed to sort CytoFOX B cells from SLE patients and healthy individuals, and then stimulate them with antigens to measure their activation and antibody production. The experiment would require a flow cytometer to sort the cells, a cell culture system to stimulate the cells, and an ELISA or ELISpot assay to measure antibody production. The steps would be: 1) isolate PBMCs from SLE patients and healthy individuals, 2) stain the cells with antibodies against CD19, CD20, IgD, and CD27, and FOXO1, 3) sort the cells using a flow cytometer to separate CytoFOX B cells from other B cell subsets, 4) stimulate the sorted cells with antigens, 5) measure the activation of the cells by flow cytometry, and 6) measure the antibody production by ELISA or ELISpot assay.",
-"KEYWORDS": ["Systemic Lupus Erythematosus", "B cells", "FOXO1", "Cytoplasmic FOXO1", "Disease activity", "Biomarker", "Autoantibodies", "Activation", "Antibody production", "Flow cytometry"]
-}

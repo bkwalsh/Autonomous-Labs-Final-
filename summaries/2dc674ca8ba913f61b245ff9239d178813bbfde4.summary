@@ -1,9 +1,0 @@
-{
-"TITLE": "The interplay of CD150 and CD180 receptor pathways contribute to the pathobiology of chronic lymphocytic leukemia B cells by selective inhibition of Akt and MAPK signaling",
-"YEAR": 2017,
-"KEY FINDINGS": "CD150 and CD180 receptors are coexpressed and colocalized on the cell surface of CLL B cells, and their simultaneous cross-linking leads to mutual inhibition of Akt and MAPK pathways, affecting translational machinery and disrupting pro-survival signals in CLL B cells.",
-"MAIN RESULT": "CD150 and CD180 receptors have a synergistic effect on CLL B cells, leading to inhibition of pro-survival pathways.",
-"HYPOTHESIS": "The simultaneous expression of CD150 and CD180 receptors on CLL B cells may serve as a negative feedback mechanism to regulate B cell activation and prevent excessive proliferation.",
-"EXPERIMENT": "To validate this hypothesis, an experiment can be designed to investigate the effect of CD150 and CD180 co-expression on B cell activation and proliferation. The experiment would involve: 1) isolating CLL B cells from patients and healthy donors, 2) transfecting the cells with CD150 and CD180 expression vectors, 3) stimulating the cells with anti-IgM antibodies to activate BCR signaling, 4) measuring the levels of phosphorylated Akt and MAPK proteins using Western blot analysis, 5) assessing cell proliferation using a cell viability assay. The required equipment includes a cell culture facility, transfection reagents, Western blot apparatus, and a cell viability assay kit.",
-"KEYWORDS": ["Chronic Lymphocytic Leukemia", "CD150", "CD180", "Akt", "MAPK", "BCR signaling", "B cell activation", "pro-survival pathways", "negative feedback mechanism", "cell proliferation"]
-}

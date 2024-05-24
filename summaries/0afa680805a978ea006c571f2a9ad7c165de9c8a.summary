@@ -1,9 +1,0 @@
-{
-"TITLE": "Targeting a Novel G-Quadruplex in the CARD11 Oncogene Promoter with Naptho(2,1-b)furan-1-ethanol,2-nitro- Requires the Nitro Group",
-"YEAR": 2022,
-"KEY FINDINGS": "The CARD11 promoter region contains a G-rich sequence that forms a stable G-quadruplex (G4) structure, which can be targeted by small molecules to downregulate CARD11 expression in diffuse large B cell lymphoma (DLBCL) cells.",
-"MAIN RESULT": "The study identified a small molecule, naptho(2,1-b)furan-1-ethanol,2-nitro- (NSC373981), that stabilizes the CARD11 G4 and inhibits CARD11 transcription in DLBCL cells, and found that the nitro group is essential for this activity.",
-"HYPOTHESIS": "The G4 structure in the CARD11 promoter region acts as a molecular switch that regulates CARD11 expression, and targeting this structure with small molecules can be a novel therapeutic strategy for treating DLBCL.",
-"EXPERIMENT": "To validate this hypothesis, a chromatin immunoprecipitation (ChIP) assay can be performed to investigate the binding of NSC373981 to the CARD11 promoter region in DLBCL cells. The experiment would require: 1) DLBCL cells, 2) NSC373981, 3) ChIP-grade antibodies against CARD11 and G4-binding proteins, 4) ChIP assay kit, 5) qPCR machine. Steps: 1) Treat DLBCL cells with NSC373981, 2) Perform ChIP assay using antibodies against CARD11 and G4-binding proteins, 3) Analyze the immunoprecipitated DNA by qPCR to detect the enrichment of the CARD11 promoter region.",
-"KEYWORDS": ["G-quadruplex", "CARD11", "diffuse large B cell lymphoma", "oncogene promoter", "small molecule targeting", "transcriptional regulation", "molecular switch", "chromatin immunoprecipitation", "G4-binding proteins", "therapeutic strategy"]
-}

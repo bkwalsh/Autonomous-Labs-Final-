@@ -1,9 +1,0 @@
-{
-"TITLE": "Downregulation of Three Novel miRNAs in the Lymph Nodes of Sheep Immunized With the Brucella suis Strain 2 Vaccine",
-"YEAR": 2022,
-"KEY FINDINGS": "The study identified three novel miRNAs (novel_229, novel_609, and novel_973) that were downregulated in the lymph nodes of sheep immunized with the Brucella suis Strain 2 vaccine. These miRNAs were found to be involved in the immune response pathways, including the innate and adaptive immunity pathways.",
-"MAIN RESULT": "The study revealed that the downregulation of these novel miRNAs may play a crucial role in the immune response to Brucella suis Strain 2 vaccine in sheep.",
-"HYPOTHESIS": "The downregulation of novel_229, novel_609, and novel_973 miRNAs in the lymph nodes of sheep immunized with the Brucella suis Strain 2 vaccine may enhance the immune response to Brucella suis infection by increasing the expression of target genes involved in the innate and adaptive immunity pathways.",
-"EXPERIMENT": "To validate this hypothesis, an experiment can be designed to overexpress or knockdown the expression of these novel miRNAs in sheep lymph nodes and then challenge the animals with Brucella suis infection. The immune response and the expression of target genes involved in the innate and adaptive immunity pathways can be measured and compared between the groups. Required equipment: miRNA overexpression or knockdown vectors, Brucella suis strain, sheep, PCR, Western blot, and flow cytometry.",
-"KEYWORDS": ["Brucella suis", "miRNAs", "sheep", "vaccine", "immune response", "innate immunity", "adaptive immunity", "lymph nodes", "gene expression", "target genes"]
-}
