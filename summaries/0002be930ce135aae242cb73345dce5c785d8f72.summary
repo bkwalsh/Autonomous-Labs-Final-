@@ -1,0 +1,29 @@
+{
+"TITLE": "BRD4-Regulated Molecular Targets in Mantle Cell Lymphoma: Insights into Targeted Therapeutic Approach",
+"YEAR": 2020,
+"KEY FINDINGS": "BRD4 inhibition leads to down-regulation of genes involved in B-cell receptor signaling, B-cell development, and oncogenes, and identifies potential therapeutic targets for mantle cell lymphoma",
+"MAIN RESULT": "BRD4 regulates a network of genes involved in B-cell biology and oncogenesis, and its inhibition leads to anti-proliferative effects in mantle cell lymphoma cell lines",
+"HYPOTHESIS": "Concomitant targeting of multiple BRD4-regulated molecules may constitute a rational therapeutic strategy for mantle cell lymphoma",
+"EXPERIMENT": {
+"Title": "Validation of concomitant targeting of BRD4-regulated molecules as a therapeutic strategy for mantle cell lymphoma",
+"Objective": "To investigate the therapeutic efficacy of concomitant targeting of BRD4-regulated molecules in mantle cell lymphoma",
+"Equipment": "Mantle cell lymphoma cell lines, BRD4 inhibitor I-BET151, lenalidomide, ibrutinib, cell viability assays, Western blotting, flow cytometry",
+"Steps": [
+"1. Treat mantle cell lymphoma cell lines with I-BET151, lenalidomide, and ibrutinib alone or in combination",
+"2. Assess cell viability and apoptosis using MTT assays and flow cytometry",
+"3. Analyze protein expression of BRD4-regulated molecules using Western blotting",
+"4. Evaluate the therapeutic efficacy of concomitant targeting of BRD4-regulated molecules in mantle cell lymphoma cell lines"
+]},
+"KEYWORDS": [
+"BRD4",
+"Mantle cell lymphoma",
+"B-cell receptor signaling",
+"B-cell development",
+"Oncogenes",
+"Therapeutic targets",
+"I-BET151",
+"Lenalidomide",
+"Ibrutinib",
+"Concomitant targeting"
+]
+}

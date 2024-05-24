@@ -1,0 +1,27 @@
+{
+"TITLE": "Integration of BCR, TLR, BAFF Receptor and TACI Signals Promotes Autoantibody Production by Transitional B Cells in BAFF Transgenic Mice",
+"YEAR": 2018,
+"KEY FINDINGS": "The study found that the integration of signals from B cell receptor (BCR), Toll-like receptor (TLR), BAFF receptor, and TACI is required for the production of class-switched autoantibodies by transitional B cells in BAFF transgenic mice.",
+"MAIN RESULT": "The study showed that the loss of any of these signals prevents the production of class-switched autoantibodies and protects against BAFF-driven lupus nephritis.",
+"HYPOTHESIS": "The integration of BCR, TLR, BAFF receptor, and TACI signals in transitional B cells is necessary for the production of pathogenic autoantibodies in autoimmune diseases such as SLE.",
+"EXPERIMENT": "To validate this hypothesis, an experiment could be designed to test the effect of blocking each of these signals individually and in combination on autoantibody production in BAFF transgenic mice. The experiment would require:
+* BAFF transgenic mice
+* Antibodies specific to BCR, TLR, BAFF receptor, and TACI
+* Flow cytometry and ELISA assays to measure autoantibody production
+* The experiment would involve injecting the mice with the specific antibodies to block each signal, and then measuring autoantibody production using flow cytometry and ELISA assays.",
+"KEYWORDS": ["BAFF", "TACI", "BCR", "TLR", "autoantibody production", "transitional B cells", "SLE", "lupus nephritis", "autoimmune disease", "signal integration"]
+}
+
+{
+"TITLE": "Response Gene to Complement-32 Expression is Upregulated in Lupus T Cells and Promotes IL-17A Expression",
+"YEAR": 2018,
+"KEY FINDINGS": "The study found that RGC-32 expression is upregulated in T cells from lupus patients and promotes IL-17A expression.",
+"MAIN RESULT": "The study showed that RGC-32 overexpression or silencing in CD4+ T cells upregulates or downregulates IL-17A transcript levels and protein secretion, respectively.",
+"HYPOTHESIS": "RGC-32 signaling plays a key role in the development of Th17-mediated autoimmune diseases such as SLE.",
+"EXPERIMENT": "To validate this hypothesis, an experiment could be designed to test the effect of RGC-32 overexpression or silencing on Th17 cell differentiation and IL-17A production in lupus patients. The experiment would require:
+* CD4+ T cells from lupus patients
+* RGC-32 overexpression or silencing vectors
+* Flow cytometry and ELISA assays to measure Th17 cell differentiation and IL-17A production
+* The experiment would involve transfecting the CD4+ T cells with the RGC-32 overexpression or silencing vectors, and then measuring Th17 cell differentiation and IL-17A production using flow cytometry and ELISA assays.",
+"KEYWORDS": ["RGC-32", "IL-17A", "Th17 cells", "lupus", "autoimmune disease", "T cell differentiation", "cytokine production"]
+}

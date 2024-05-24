@@ -1,0 +1,9 @@
+{
+"TITLE": "Oncogene-independent BCR-like signaling adaptation confers drug resistance in Ph-like ALL",
+"YEAR": 2020,
+"KEY FINDINGS": "Ph-like ALL cells adapt to JAK inhibition by switching from cytokine receptor dependence to BCR-like signaling, which confers drug resistance. CRLF2 signaling is not required for survival of Ph-like ALL cells, and JAK inhibition induces partial differentiation of Ph-like ALL cells.",
+"MAIN RESULT": "Combinatorial targeting of JAK/STAT, PI3K, and BCR-like signaling with multiple TKIs and/or dexamethasone prevented signaling plasticity and induced complete cell death in Ph-like ALL cells.",
+"HYPOTHESIS": "Ph-like ALL cells may utilize a pre-BCR-like signaling pathway to bypass JAK inhibition and maintain cell survival.",
+"EXPERIMENT": "To validate this hypothesis, a flow cytometry-based assay can be performed to analyze the expression of pre-BCR-associated proteins (e.g., BCL6, BLNK, RAG1, and RAG2) in Ph-like ALL cells treated with JAK inhibitors. The experiment would require: 1) Ph-like ALL cell lines or PDX models, 2) JAK inhibitors (e.g., ruxolitinib), 3) flow cytometry equipment, and 4) antibodies against pre-BCR-associated proteins. Steps: 1) Treat Ph-like ALL cells with JAK inhibitors for 24-48 hours, 2) Stain cells with antibodies against pre-BCR-associated proteins, 3) Analyze protein expression by flow cytometry, and 4) Compare results to untreated controls.",
+"KEYWORDS": ["Ph-like ALL", "JAK inhibition", "BCR-like signaling", "CRLF2", "drug resistance", "leukemia", "tyrosine kinase inhibitors", "pre-BCR", "cell differentiation", "signaling plasticity"]
+}

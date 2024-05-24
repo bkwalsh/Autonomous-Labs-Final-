@@ -1,0 +1,30 @@
+{
+"TITLE": "Targeting the ER-Mitochondrial Interface of Cell Death Sensitizes Leukemia Cells Towards Cytostatics",
+"YEAR": 2017,
+"KEY FINDINGS": "The protein disulfide isomerase (PDI) inhibitor PS89 sensitizes acute leukemia cells to chemotherapy by targeting the ER-mitochondrial interface, leading to apoptosis induction. PS89 targets a network of ER homeostasis proteins, including BAP31, which transduces apoptosis signals at the ER-mitochondrial interface.",
+"MAIN RESULT": "PS89 synergizes with chemotherapy to induce apoptosis in acute leukemia cells, including drug-resistant cells and patient-derived xenograft cells.",
+"HYPOTHESIS": "Targeting the ER-mitochondrial interface with PS89 can overcome chemotherapy resistance in acute leukemia by amplifying pro-apoptotic signaling loops.",
+"EXPERIMENT": {
+"Title": "Validation of PS89-mediated ER-mitochondrial interface targeting in chemotherapy-resistant acute leukemia cells",
+"Objective": "To investigate whether PS89 can overcome chemotherapy resistance in acute leukemia cells by targeting the ER-mitochondrial interface.",
+"Equipment": "Flow cytometer, confocal microscope, Western blot equipment, cell culture facilities",
+"Steps": [
+"1. Culture chemotherapy-resistant acute leukemia cells (e.g. Jurkat cells) with or without PS89 and chemotherapy (e.g. etoposide).",
+"2. Analyze apoptosis induction using flow cytometry and Western blotting for caspase-3 and PARP cleavage.",
+"3. Investigate ER-mitochondrial interface disruption using confocal microscopy and co-staining for ER and mitochondrial markers.",
+"4. Measure mitochondrial membrane potential and cytosolic calcium levels using flow cytometry and fluorescent dyes.",
+"5. Validate the role of BAP31 in PS89-mediated apoptosis induction using siRNA knockdown and co-immunoprecipitation assays."
+]},
+"KEYWORDS": [
+"Acute leukemia",
+"Chemotherapy resistance",
+"ER-mitochondrial interface",
+"Protein disulfide isomerase",
+"PS89",
+"Apoptosis",
+"BAP31",
+"Endoplasmic reticulum",
+"Mitochondria",
+"Cytostatics"
+]
+}

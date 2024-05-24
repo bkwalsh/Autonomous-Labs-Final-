@@ -1,0 +1,9 @@
+{
+"TITLE": "Ibrutinib Inhibits BTK Signaling in Tumor-Infiltrated B Cells and Amplifies Antitumor Immunity by PD-1 Checkpoint Blockade for Metastatic Prostate Cancer",
+"YEAR": 2023,
+"KEY FINDINGS": "Ibrutinib, a BTK inhibitor, can inhibit B cell proliferation and activation, and promote CD8+ T cell proliferation and infiltration in metastatic prostate cancer. Combination therapy with ibrutinib and PD-1 checkpoint blockade significantly improved antitumor immunity and reduced tumor volume.",
+"MAIN RESULT": "Ibrutinib synergized with anti-PD-1 checkpoint blockade to enhance antitumor immunity and reduce tumor volume in a murine orthotopic prostate cancer model.",
+"HYPOTHESIS": "Ibrutinib may enhance the efficacy of PD-1 checkpoint blockade by reducing the immunosuppressive effects of tumor-infiltrated B cells in metastatic prostate cancer.",
+"EXPERIMENT": "To validate this hypothesis, a clinical trial can be designed to evaluate the efficacy of combination therapy with ibrutinib and PD-1 checkpoint blockade in patients with metastatic prostate cancer. The trial would require: 1) patient recruitment and randomization to receive either ibrutinib monotherapy, PD-1 checkpoint blockade monotherapy, or combination therapy; 2) tumor biopsies and blood samples collected at baseline and after treatment; 3) flow cytometry analysis of tumor-infiltrated B cells and CD8+ T cells; 4) evaluation of tumor volume and overall survival. Required equipment: flow cytometer, tumor biopsy equipment, and clinical trial infrastructure.",
+"KEYWORDS": ["Ibrutinib", "BTK", "Prostate Cancer", "PD-1 Checkpoint Blockade", "Metastatic Prostate Cancer", "Tumor-Infiltrated B Cells", "CD8+ T Cells", "Antitumor Immunity", "Immunotherapy", "Combination Therapy"]
+}

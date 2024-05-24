@@ -1,0 +1,9 @@
+{
+"TITLE": "Novel modular chimeric antigen receptor spacer for T cells derived from signal regulatory protein alpha Ig-like domains",
+"YEAR": 2022,
+"KEY FINDINGS": "The study designed and tested novel chimeric antigen receptors (CARs) with spacers derived from signal-regulatory protein alpha (SIRPα) Ig-like domains, which showed equivalent cytotoxic functionality to traditional IgG1-based CARs but evaded off-target interactions with FcR-expressing myeloid cells.",
+"MAIN RESULT": "The SIRPα-based CARs demonstrated potent in vitro cytotoxicity against CD19 positive B-lineage leukemia cells, comparable to traditional IgG1-based CAR T cells, while avoiding unwanted interactions with FcR-expressing myeloid cells.",
+"HYPOTHESIS": "The SIRPα-based CARs may be more effective in vivo due to reduced off-target interactions, leading to improved anti-tumor activity and reduced side effects.",
+"EXPERIMENT": "To validate this hypothesis, a xenograft mouse model of B-cell acute lymphoblastic leukemia (B-ALL) could be used. Mice would be engrafted with human B-ALL cells and then treated with either SIRPα-based CAR T cells or traditional IgG1-based CAR T cells. Tumor burden, CAR T cell persistence, and cytokine profiles would be monitored over time. Required equipment: xenograft mouse model, human B-ALL cells, SIRPα-based CAR T cells, traditional IgG1-based CAR T cells, flow cytometer, ELISA or cytokine bead array.",
+"KEYWORDS": ["Chimeric antigen receptor", "Signal-regulatory protein alpha", "Ig-like domains", "FcR-expressing myeloid cells", "CD19", "B-cell acute lymphoblastic leukemia", "CAR T cell therapy", "Off-target interactions", "Anti-tumor activity", "Side effects"]
+}

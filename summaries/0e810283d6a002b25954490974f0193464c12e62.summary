@@ -1,0 +1,42 @@
+{
+"TITLE": "Identification of a 14-Gene Prognostic Signature for Diffuse Large B Cell Lymphoma (DLBCL)",
+"YEAR": 2021,
+"KEY FINDINGS": "The study identified a 14-gene signature that can predict the prognosis of DLBCL patients. The signature was validated using external datasets and was found to be associated with immune cell infiltration and activation.",
+"MAIN RESULT": "The 14-gene signature was able to divide DLBCL patients into high- and low-risk groups, with the high-risk group having a poorer prognosis.",
+"HYPOTHESIS": "The 14-gene signature is associated with the immune microenvironment of DLBCL and can be used to predict response to immunotherapy.",
+"EXPERIMENT": {
+"Title": "Validation of the 14-gene signature as a predictor of response to immunotherapy in DLBCL",
+"Objective": "To validate the 14-gene signature as a predictor of response to immunotherapy in DLBCL patients.",
+"Design": "Retrospective cohort study",
+"Methods": [
+"Collect tumor samples from DLBCL patients who have received immunotherapy",
+"Extract RNA from the tumor samples and perform gene expression analysis using qRT-PCR or RNA-seq",
+"Calculate the 14-gene signature score for each patient",
+"Compare the 14-gene signature score with the response to immunotherapy (e.g. complete response, partial response, stable disease, progressive disease)",
+"Perform statistical analysis to determine the correlation between the 14-gene signature score and response to immunotherapy"
+],
+"Equipment": [
+"qRT-PCR or RNA-seq instrument",
+"Bioinformatics software for data analysis"
+],
+"Steps to follow": [
+"Collect and process tumor samples",
+"Extract RNA and perform gene expression analysis",
+"Calculate the 14-gene signature score",
+"Compare the 14-gene signature score with response to immunotherapy",
+"Perform statistical analysis and interpret results"
+]
+},
+"KEYWORDS": [
+"Diffuse large B cell lymphoma",
+"Prognostic signature",
+"Immune microenvironment",
+"Immunotherapy",
+"Gene expression analysis",
+"qRT-PCR",
+"RNA-seq",
+"Cancer biomarkers",
+"Personalized medicine",
+"Predictive modeling"
+]
+}

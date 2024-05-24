@@ -1,0 +1,31 @@
+{
+"TITLE": "Combinatorial targeting of nuclear export and translation of RNA inhibits aggressive B-cell lymphomas",
+"YEAR": 2016,
+"KEY FINDINGS": "The paper identifies eIF4E as a key driver of aggressive B-cell lymphomas and shows that it regulates the nuclear export and translation of BCL6, MYC, and BCL2 mRNAs. TEHsp90, a stress active form of Hsp90, modulates eIF4E activity and is a novel partner protein in this process.",
+"MAIN RESULT": "The paper demonstrates that combinatorial inhibition of eIF4E and TEHsp90 results in cooperative antilymphoma activity in DH/TH DLBCL in vitro and in vivo.",
+"HYPOTHESIS": "Inhibiting eIF4E and TEHsp90 simultaneously will lead to a more effective treatment of aggressive B-cell lymphomas by disrupting the oncogenic network that sustains these cancers.",
+"EXPERIMENT": {
+"Title": "Validation of combinatorial inhibition of eIF4E and TEHsp90 in aggressive B-cell lymphomas",
+"Objective": "To investigate the efficacy of combinatorial inhibition of eIF4E and TEHsp90 in aggressive B-cell lymphomas using a xenograft model.",
+"Equipment": "SCID mice, DLBCL cell lines, ribavirin, PU-H71, eIF4E siRNA, TEHsp90 inhibitor, tumor volume measurement equipment.",
+"Steps": [
+"1. Establish a xenograft model of aggressive B-cell lymphoma in SCID mice using DLBCL cell lines.",
+"2. Treat mice with ribavirin (eIF4E inhibitor), PU-H71 (TEHsp90 inhibitor), or a combination of both.",
+"3. Measure tumor volume and compare between treatment groups.",
+"4. Perform Western blot analysis to confirm inhibition of eIF4E and TEHsp90 in tumor samples.",
+"5. Analyze the expression of BCL6, MYC, and BCL2 mRNAs in tumor samples using qRT-PCR."
+]
+},
+"KEYWORDS": [
+"Aggressive B-cell lymphomas",
+"eIF4E",
+"TEHsp90",
+"RNA export",
+"Translation",
+"Combinatorial therapy",
+"DLBCL",
+"MYC",
+"BCL2",
+"BCL6"
+]
+}

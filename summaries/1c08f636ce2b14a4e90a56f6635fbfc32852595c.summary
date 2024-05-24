@@ -1,0 +1,32 @@
+{
+"TITLE": "Expanding the toolkit for the study of allo-specific B and T cell responses",
+"YEAR": 2017,
+"KEY FINDINGS": "The paper reviews various methods to detect alloreactive B and T cells, including mixed lymphocyte reactions, in vivo mouse models, trans-vivo delayed type hypersensitivity, and quantification of donor-specific antibody. It also discusses new tools such as intravital imaging, in vivo tracking of immune cells, and use of major histocompatibility complex (MHC) multimers.",
+"MAIN RESULT": "The paper provides a comprehensive overview of the current methods and emerging technologies for studying alloimmune responses, highlighting their advantages and limitations.",
+"HYPOTHESIS": "The use of retrogenic TCRs and MHC multimers can improve the accuracy of diagnostic tests for alloimmune responses and enable the tracking of antigen-specific B and T cells in vivo.",
+"EXPERIMENT": "To validate this hypothesis, an experiment could be designed to compare the accuracy of traditional diagnostic tests with those using retrogenic TCRs and MHC multimers. The experiment would require:
+
+* Retrogenic TCRs and MHC multimers with specificities for known alloantigens
+* Mouse models with defined alloantigen and Tg alloreactive TCRs
+* Flow cytometry and imaging equipment for tracking and sorting T cells
+* Patient samples with known HLA types and alloimmune responses
+
+Steps to follow:
+
+1. Generate retrogenic TCRs and MHC multimers with specificities for known alloantigens.
+2. Use these reagents to track and sort T cells from mouse models with defined alloantigen and Tg alloreactive TCRs.
+3. Compare the accuracy of traditional diagnostic tests with those using retrogenic TCRs and MHC multimers in detecting alloimmune responses in patient samples.
+4. Analyze the data to determine the sensitivity and specificity of each method.",
+"KEYWORDS": [
+"Alloimmune responses",
+"Alloreactive B and T cells",
+"MHC multimers",
+"Retrogenic TCRs",
+"Diagnostic tests",
+"Transplantation",
+"Immunology",
+"Flow cytometry",
+"Imaging",
+"HLA types"
+]
+}

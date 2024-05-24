@@ -1,0 +1,30 @@
+{
+"TITLE": "Expression of the prosurvival kinase HCK requires PAX5 and mutated MYD88 signaling in MYD88-driven B-cell lymphomas",
+"YEAR": 2020,
+"KEY FINDINGS": "HCK expression is upregulated in MYD88-mutated B-cell lymphomas and is dependent on PAX5 and mutated MYD88 signaling. TLR/MYD88 signaling activates JunB, which regulates HCK expression.",
+"MAIN RESULT": "HCK expression is regulated by PAX5, mutated MYD88, and downstream signaling molecules including STAT3, NF-kB, and AP-1 in MYD88-mutated B-cell lymphomas.",
+"HYPOTHESIS": "Inhibition of JunB may be a therapeutic strategy to target HCK expression and survival in MYD88-mutated B-cell lymphomas.",
+"EXPERIMENT": {
+"Title": "Validation of JunB as a therapeutic target in MYD88-mutated B-cell lymphomas",
+"Objective": "To investigate the effect of JunB inhibition on HCK expression and cell survival in MYD88-mutated B-cell lymphomas.",
+"Equipment": "Lentiviral shRNA vectors, JunB shRNA, MYD88-mutated B-cell lymphoma cell lines (e.g. BCWM.1, MWCL-1), western blotting equipment, cell viability assays.",
+"Steps": [
+"1. Design and clone JunB shRNA into lentiviral vectors.",
+"2. Transduce MYD88-mutated B-cell lymphoma cell lines with JunB shRNA or control shRNA.",
+"3. Measure HCK protein levels by western blotting.",
+"4. Perform cell viability assays to assess the effect of JunB inhibition on cell survival.",
+"5. Analyze data to determine the effect of JunB inhibition on HCK expression and cell survival."
+]},
+"KEYWORDS": [
+"HCK",
+"MYD88",
+"PAX5",
+"JunB",
+"TLR/MYD88 signaling",
+"B-cell lymphoma",
+"STAT3",
+"NF-kB",
+"AP-1",
+"Prosurvival kinase"
+]
+}

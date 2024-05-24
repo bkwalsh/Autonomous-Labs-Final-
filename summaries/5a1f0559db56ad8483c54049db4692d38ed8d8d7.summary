@@ -1,0 +1,30 @@
+{
+"TITLE": "The actin cytoskeleton regulates signaling",
+"YEAR": 2016,
+"KEY FINDINGS": "The actin cytoskeleton plays a critical role in regulating receptor signaling thresholds and integration of different signals through controlling molecular organization and dynamics of cell surface proteins.",
+"MAIN RESULT": "The actin cytoskeleton is a key regulator of receptor signaling, and its dynamics and structural properties must be tightly regulated to fulfill its various functions in a multitude of cellular events.",
+"HYPOTHESIS": "Modulation of the actin cytoskeleton is a general mechanism for integrating cross talk between different signaling pathways.",
+"EXPERIMENT": {
+"Title": "Investigating the role of actin cytoskeleton in receptor signaling",
+"Objective": "To validate the hypothesis that modulation of the actin cytoskeleton is a general mechanism for integrating cross talk between different signaling pathways.",
+"Equipment": "Fluorescence microscopy, cell culture facilities, actin-modulating drugs (e.g. cytochalasin D), receptor-specific antibodies, and signaling pathway-specific inhibitors.",
+"Steps": [
+"1. Culture cells expressing the receptor of interest and treat with actin-modulating drugs to alter actin cytoskeleton dynamics.",
+"2. Use fluorescence microscopy to visualize receptor clustering and signaling pathway activation.",
+"3. Use receptor-specific antibodies to quantify receptor clustering and signaling pathway-specific inhibitors to assess the effect of actin cytoskeleton modulation on signaling pathway cross talk.",
+"4. Analyze the data to determine if modulation of the actin cytoskeleton affects receptor signaling and integration of different signaling pathways."
+]
+},
+"KEYWORDS": [
+"Actin cytoskeleton",
+"Receptor signaling",
+"Cell signaling",
+"Immune system",
+"B cell receptor",
+"Actin dynamics",
+"Cell membrane",
+"Protein-protein interactions",
+"Signaling pathways",
+"Cytoskeleton regulation"
+]
+}

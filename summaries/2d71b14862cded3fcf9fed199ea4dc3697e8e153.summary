@@ -1,0 +1,20 @@
+{
+"TITLE": "Characterization of intratumoral tertiary lymphoid structures in pancreatic ductal adenocarcinoma: cellular properties and prognostic significance",
+"YEAR": 2023,
+"KEY FINDINGS": "Intratumoral tertiary lymphoid structures (TLSs) were identified in 21.1% of pancreatic ductal adenocarcinoma (PDAC) patients without preoperative treatment and 15.4% of patients with neoadjuvant treatment. The presence of intratumoral TLSs was associated with improved overall survival and progression-free survival in patients without preoperative treatment, but not in patients with neoadjuvant treatment.",
+"MAIN RESULT": "The study found that intratumoral TLSs are associated with improved prognosis in PDAC patients without preoperative treatment, but not in patients with neoadjuvant treatment.",
+"HYPOTHESIS": "Neoadjuvant chemotherapy may compromise the protective roles of intratumoral TLSs in PDAC patients.",
+"EXPERIMENT": "To validate this hypothesis, a prospective study can be designed to compare the presence and characteristics of intratumoral TLSs in PDAC patients who receive neoadjuvant chemotherapy versus those who do not. The study would require:
+
+* A cohort of PDAC patients who receive neoadjuvant chemotherapy and a cohort of patients who do not receive neoadjuvant chemotherapy
+* Tumor tissue samples from both cohorts
+* Fluorescent multiplex immunohistochemistry analysis to identify and characterize intratumoral TLSs
+* Comparison of the presence, size, and cellular composition of intratumoral TLSs between the two cohorts
+* Correlation of intratumoral TLS characteristics with patient outcomes (e.g. overall survival, progression-free survival)
+
+Required equipment:
+
+* Fluorescent multiplex immunohistochemistry platform (e.g. Opal 7-Colour Manual IHC Kit)
+* Image analysis software (e.g. inForm V.2.4, HALO V.3.2)
+* Statistical analysis software (e.g. SPSS, R)",
+"KEYWORDS": ["Pancreatic ductal adenocarcinoma", "Tertiary lymphoid structures", "Neoadjuvant chemotherapy", "Prognostic significance", "Immune response", "Cancer immunotherapy", "Tumor microenvironment", "Intratumoral TLSs", "Fluorescent multiplex immunohistochemistry", "Machine learning image analysis"]

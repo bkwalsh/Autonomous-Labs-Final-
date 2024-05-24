@@ -1,0 +1,9 @@
+{
+"TITLE": "Evolving approaches in the identification of allograft-reactive T and B cells in mice and humans",
+"YEAR": 2017,
+"KEY FINDINGS": "The paper reviews various methods for identifying and tracking alloreactive T and B cells in mice and humans, including mixed lymphocyte reactions, trans-vivo delayed-type hypersensitivity, enzyme-linked immunospot assays, and the use of antigen receptor transgenic lymphocytes and peptide-MHC complex multimers.",
+"MAIN RESULT": "The paper highlights the importance of accurately quantifying donor-specific T, B, and plasma cell responses to predict allograft outcomes and develop therapeutic interventions.",
+"HYPOTHESIS": "The use of peptide-MHC complex multimers can be used to track the polyclonal alloreactive endogenous response to a single donor antigen, allowing for the identification of low avidity T cells.",
+"EXPERIMENT": "To validate this hypothesis, an experiment could be designed to track the alloreactive T cell response to a single donor antigen using peptide-MHC complex multimers. The experiment would require: 1) generation of peptide-MHC complex multimers specific to the donor antigen, 2) isolation of T cells from mice or human subjects, 3) staining of T cells with the peptide-MHC complex multimers, 4) flow cytometry analysis to identify and quantify alloreactive T cells. The experiment would require a flow cytometer, peptide-MHC complex multimers, and T cells from mice or human subjects.",
+"KEYWORDS": ["allograft rejection", "alloreactive T cells", "peptide-MHC complex multimers", "transplantation", "immunology", "T cell tracking", "B cell tracking", "mixed lymphocyte reactions", "trans-vivo delayed-type hypersensitivity", "enzyme-linked immunospot assays"]
+}

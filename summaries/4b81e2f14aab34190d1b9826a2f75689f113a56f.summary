@@ -1,0 +1,30 @@
+{
+"TITLE": "Interferon regulatory factor 8 regulates caspase-1 expression to facilitate Epstein-Barr virus reactivation in response to B cell receptor stimulation and chemical induction",
+"YEAR": 2018,
+"KEY FINDINGS": "IRF8 depletion inhibits EBV lytic replication, IRF8 regulates caspase-1 expression, caspase-1 is required for EBV reactivation, and IRF8-dependent caspase activation facilitates the degradation of cellular factors that limit EBV lytic replication",
+"MAIN RESULT": "IRF8 regulates EBV lytic replication through caspase-1 expression and activation",
+"HYPOTHESIS": "IRF8 regulates the expression of other caspases, in addition to caspase-1, to facilitate EBV lytic replication",
+"EXPERIMENT": {
+"Title": "Investigating the role of IRF8 in regulating other caspases during EBV lytic replication",
+"Objective": "To determine if IRF8 regulates the expression of other caspases, in addition to caspase-1, during EBV lytic replication",
+"Equipment": "CRISPR/Cas9 system, lentiviral vectors, Akata (EBV+) cells, antibodies against various caspases, Western blotting equipment",
+"Steps": [
+"1. Use CRISPR/Cas9 system to deplete IRF8 in Akata (EBV+) cells",
+"2. Analyze the expression of various caspases (e.g. caspase-3, caspase-8, caspase-9) by Western blotting",
+"3. Compare the expression levels of caspases between IRF8-depleted and control cells",
+"4. Investigate the effect of IRF8 depletion on EBV lytic replication in the presence and absence of caspase inhibitors"
+]
+},
+"KEYWORDS": [
+"Epstein-Barr virus",
+"IRF8",
+"caspase-1",
+"lytic replication",
+"B cell receptor stimulation",
+"chemical induction",
+"apoptosis",
+"caspase activation",
+"viral reactivation",
+"gene regulation"
+]
+}

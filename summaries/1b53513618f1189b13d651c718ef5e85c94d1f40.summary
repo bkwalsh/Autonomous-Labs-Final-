@@ -1,0 +1,9 @@
+{
+"TITLE": "Therapeutic effect of ibrutinib, a selective Bruton’s tyrosine kinase inhibitor, in orbital fibroblasts from patients with Graves’ orbitopathy",
+"YEAR": 2022,
+"KEY FINDINGS": "The study found that Bruton's tyrosine kinase (BTK) expression is enhanced in Graves' orbitopathy (GO) tissues and orbital fibroblasts, and that ibrutinib, a BTK inhibitor, suppresses proinflammatory cytokine production and phosphorylation of Akt and NF-κB protein in GO orbital fibroblasts.",
+"MAIN RESULT": "Ibrutinib reduces the expression of BTK mRNA and proteins of p-BTK, and inhibits the IL-1β- and IGF-1-induced production of proinflammatory cytokines including IL-6, IL-8 and COX-2 in both GO and normal cells.",
+"HYPOTHESIS": "Ibrutinib may be a potential therapeutic agent for the treatment of Graves' orbitopathy by targeting the BTK signaling pathway.",
+"EXPERIMENT": "To validate this hypothesis, an in vivo study can be conducted using a mouse model of Graves' orbitopathy. Mice can be treated with ibrutinib or vehicle control, and the severity of orbitopathy can be evaluated by measuring the volume of orbital tissues and the levels of proinflammatory cytokines. The experiment would require: 1) a mouse model of Graves' orbitopathy, 2) ibrutinib, 3) vehicle control, 4) micro-CT scanner, 5) ELISA kits for cytokine measurement, 6) RNA extraction and qRT-PCR equipment. The steps to follow would be: 1) induce Graves' orbitopathy in mice, 2) treat mice with ibrutinib or vehicle control, 3) measure the volume of orbital tissues using micro-CT scanner, 4) collect orbital tissues and measure the levels of proinflammatory cytokines using ELISA, 5) extract RNA from orbital tissues and measure the expression of BTK and proinflammatory genes using qRT-PCR.",
+"KEYWORDS": ["Graves' orbitopathy", "Bruton's tyrosine kinase", "ibrutinib", "inflammation", "orbital fibroblasts", "proinflammatory cytokines", "Akt", "NF-κB", "BTK inhibitor", "therapeutic agent"]
+}

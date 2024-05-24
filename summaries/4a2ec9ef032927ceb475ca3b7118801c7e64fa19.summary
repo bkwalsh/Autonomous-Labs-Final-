@@ -1,0 +1,15 @@
+{
+"TITLE": "In Silico Analysis of miR-181a and miR-155 and Their Target Genes in the Pathogenesis of Acute Lymphoblastic Leukaemia",
+"YEAR": 2022,
+"KEY FINDINGS": "The study found that miR-181a was downregulated, while miR-155 was upregulated in Acute Lymphoblastic Leukaemia (ALL) groups compared to control groups. The predicted target genes regulated by miR-181a and miR-155 were identified, with DUSP6 and H3F3A being the most significant genes, respectively. The study also found that the p53 signalling pathway and MAPK pathway were the most significant pathways targeted by miR-181a and miR-155, respectively.",
+"MAIN RESULT": "The study suggests that miR-181a and miR-155 have potential roles as biomarkers for diagnostic, prognostic, predictive, and therapeutic effects in ALL patients.",
+"HYPOTHESIS": "The downregulation of miR-181a and upregulation of miR-155 in ALL patients leads to the activation of the MAPK pathway, which contributes to the development and progression of ALL.",
+"EXPERIMENT": "To validate this hypothesis, an experiment can be designed to investigate the effect of miR-181a and miR-155 on the MAPK pathway in ALL cells. The experiment would require the following equipment and steps:
+
+* Equipment: ALL cell lines, miR-181a and miR-155 mimics, MAPK pathway inhibitors, Western blotting equipment, and qRT-PCR machine.
+* Steps:
+1. Transfect ALL cells with miR-181a and miR-155 mimics to overexpress or knockdown the miRNAs.
+2. Treat the cells with MAPK pathway inhibitors to block the activation of the pathway.
+3. Analyze the expression of MAPK pathway components (e.g., ERK, MEK1, MEK2) using Western blotting and qRT-PCR.
+4. Compare the results to determine if the overexpression of miR-181a and knockdown of miR-155 lead to the inhibition of the MAPK pathway, and vice versa.",
+"KEYWORDS": ["Acute Lymphoblastic Leukaemia", "miR-181a", "miR-155", "MicroRNAs", "MAPK pathway", "p53 signalling pathway", "DUSP6", "H3F3A", "Biomarkers", "Cancer therapy"]

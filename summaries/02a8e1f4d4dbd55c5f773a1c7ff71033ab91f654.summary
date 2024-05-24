@@ -1,0 +1,30 @@
+{
+"TITLE": "Activation of Notch-1 signaling pathway in macrophages to secrete PD-L1 and regulate cytotoxicity of CAR-T cells in diffuse large B-cell lymphoma",
+"YEAR": 2024,
+"KEY FINDINGS": "The study found that the Notch-1 signaling pathway in macrophages promotes the secretion of PD-L1, which inhibits the activity and proliferation of CAR-T cells and promotes their apoptosis.",
+"MAIN RESULT": "The study demonstrated that the Notch-1/IRE1/XBP1s signaling pathway in macrophages regulates the secretion of PD-L1, which affects the cytotoxicity of CAR-T cells in diffuse large B-cell lymphoma.",
+"HYPOTHESIS": "The Notch-1 signaling pathway in macrophages may be a potential therapeutic target to enhance the efficacy of CAR-T cell therapy in diffuse large B-cell lymphoma.",
+"EXPERIMENT": {
+"Title": "Inhibiting Notch-1 signaling pathway in macrophages to enhance CAR-T cell therapy in diffuse large B-cell lymphoma",
+"Objective": "To investigate whether inhibiting the Notch-1 signaling pathway in macrophages can enhance the efficacy of CAR-T cell therapy in diffuse large B-cell lymphoma.",
+"Equipment": "CAR-T cells, macrophages, Notch-1 inhibitor, PD-L1 antibody, flow cytometer, cell culture medium, etc.",
+"Steps": [
+"Co-culture CAR-T cells with macrophages in the presence or absence of Notch-1 inhibitor.",
+"Measure the expression of PD-L1 on macrophages using flow cytometry.",
+"Assess the cytotoxicity of CAR-T cells against lymphoma cells using a cytotoxicity assay.",
+"Compare the results between the groups with and without Notch-1 inhibitor."
+]
+},
+"KEYWORDS": [
+"Diffuse large B-cell lymphoma",
+"CAR-T cell therapy",
+"Notch-1 signaling pathway",
+"Macrophages",
+"PD-L1",
+"Immune checkpoint",
+"Cancer immunotherapy",
+"Tumor microenvironment",
+"Immunosuppression",
+"Cell signaling"
+]
+}

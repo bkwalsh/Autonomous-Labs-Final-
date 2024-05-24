@@ -1,0 +1,30 @@
+{
+"TITLE": "The early activation of memory B cells from Wiskott-Aldrich syndrome patients is suppressed by CD19 downregulation",
+"YEAR": 2016,
+"KEY FINDINGS": "Wiskott-Aldrich syndrome (WAS) patients exhibit defective memory B-cell responses, and WAS memory B cells show reduced B-cell spreading and BCR clustering upon antigen stimulation, which is associated with decreased CD19 recruitment and Btk activation, and increased FcgRIIB-SHIP-mediated negative signaling.",
+"MAIN RESULT": "WASP is required for memory B-cell activation, promoting CD19 transcription and CD19 recruitment to the BCR.",
+"HYPOTHESIS": "WASP regulates CD19 transcription by binding to a specific promoter region, leading to increased CD19 expression and recruitment to the BCR in memory B cells.",
+"EXPERIMENT": {
+"Title": "ChIP-seq analysis of WASP binding to the CD19 promoter region",
+"Objective": "To determine if WASP binds to the CD19 promoter region and regulates its transcription.",
+"Equipment": "ChIP-seq platform, antibodies against WASP and CD19, B cells from WAS patients and healthy controls",
+"Steps": [
+"1. Isolate B cells from WAS patients and healthy controls",
+"2. Perform ChIP-seq using antibodies against WASP and CD19",
+"3. Analyze ChIP-seq data to identify WASP binding sites in the CD19 promoter region",
+"4. Validate WASP binding to the CD19 promoter region using qPCR and Western blot",
+"5. Overexpress WASP in WAS B cells and measure CD19 expression and recruitment to the BCR"
+]},
+"KEYWORDS": [
+"Wiskott-Aldrich syndrome",
+"Memory B cells",
+"CD19",
+"B-cell receptor",
+"WASP",
+"BCR signaling",
+"Immune response",
+"Antigen stimulation",
+"B-cell activation",
+"ChIP-seq"
+]
+}

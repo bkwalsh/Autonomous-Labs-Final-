@@ -1,0 +1,9 @@
+{
+"TITLE": "Taking the Next Step in Double Refractory Disease: Current and Future Treatment Strategies for Chronic Lymphocytic Leukemia",
+"YEAR": 2024,
+"KEY FINDINGS": "The paper reviews the current treatment landscape of chronic lymphocytic leukemia (CLL) and discusses the challenges of treating patients who have progressed after Bruton tyrosine kinase inhibitors (BTKis) and venetoclax. It highlights the need for novel agents and combination strategies to overcome resistance mechanisms.",
+"MAIN RESULT": "The paper concludes that novel BCR-signaling targeting agents, cancer immunotherapies, and personalized approaches have the potential to overcome the clinical challenge of what to do next for a patient who has already had a BTKi and venetoclax.",
+"HYPOTHESIS": "Combination therapy with a BTKi and a BCL2 inhibitor may overcome resistance mechanisms and improve treatment outcomes in patients with CLL.",
+"EXPERIMENT": "To validate this hypothesis, a phase 2 clinical trial can be designed to evaluate the efficacy and safety of combination therapy with ibrutinib and venetoclax in patients with relapsed/refractory CLL who have progressed after previous BTKi therapy. The trial would require the following equipment and steps: 1) Patient enrollment and randomization to either the combination therapy arm or a control arm receiving ibrutinib monotherapy. 2) Treatment administration and monitoring for 24 months. 3) Assessment of progression-free survival, overall response rate, and minimal residual disease at 12 and 24 months. 4) Analysis of biomarkers of BCR signaling and apoptosis to identify potential predictors of response.",
+"KEYWORDS": ["Chronic Lymphocytic Leukemia", "Bruton Tyrosine Kinase Inhibitors", "Venetoclax", "BCR Signaling", "Apoptosis", "Relapsed/Refractory CLL", "Combination Therapy", "Personalized Medicine", "Cancer Immunotherapy", "Bispecific Antibodies", "CAR-T Cell Therapy"]
+}

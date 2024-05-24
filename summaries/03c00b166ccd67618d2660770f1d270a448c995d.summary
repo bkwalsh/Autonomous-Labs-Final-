@@ -1,0 +1,31 @@
+{
+"TITLE": "Flow Cytometric-Based Analysis of Defects in Lymphocyte Differentiation and Function Due to Inborn Errors of Immunity",
+"YEAR": 2019,
+"KEY FINDINGS": "The paper reviews the use of flow cytometry in the diagnosis and study of primary immunodeficiencies (PIDs) and highlights its importance in understanding the pathophysiology of these disorders.",
+"MAIN RESULT": "Flow cytometry has revolutionized the diagnosis and study of PIDs, enabling the identification of distinct lymphocyte populations and the detection of defects in lymphocyte differentiation and function.",
+"HYPOTHESIS": "The use of flow cytometry can identify novel biomarkers for PIDs, enabling earlier diagnosis and more targeted treatment.",
+"EXPERIMENT": {
+"Title": "Identification of Novel Biomarkers for PIDs using Flow Cytometry",
+"Objective": "To identify novel biomarkers for PIDs using flow cytometry and validate their diagnostic potential.",
+"Equipment": "Flow cytometer, antibodies against various cell surface markers, PBMCs from healthy donors and PID patients",
+"Steps": [
+"1. Collect PBMCs from healthy donors and PID patients",
+"2. Stain PBMCs with antibodies against various cell surface markers",
+"3. Analyze stained cells using flow cytometry",
+"4. Identify novel biomarkers that distinguish PID patients from healthy donors",
+"5. Validate the diagnostic potential of identified biomarkers using a larger cohort of patients"
+]
+},
+"KEYWORDS": [
+"Flow cytometry",
+"Primary immunodeficiencies",
+"Lymphocyte differentiation",
+"Lymphocyte function",
+"Immune disorders",
+"Diagnosis",
+"Biomarkers",
+"Immunodeficiency",
+"Immune system",
+"Cell surface markers"
+]
+}

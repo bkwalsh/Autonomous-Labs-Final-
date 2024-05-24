@@ -1,0 +1,30 @@
+{
+"TITLE": "B-cell receptor–driven MALT1 activity regulates MYC signaling in mantle cell lymphoma",
+"YEAR": 2017,
+"KEY FINDINGS": "MALT1 is expressed and activated in a subset of mantle cell lymphoma (MCL) cases, and its inhibition induces cytotoxicity in MCL cells. MALT1 regulates MYC protein stability, and MYC is essential for MCL survival.",
+"MAIN RESULT": "MALT1 activity is required for the survival of a subset of MCL cells, and its inhibition leads to decreased MYC protein levels and subsequent cell death.",
+"HYPOTHESIS": "Inhibition of MALT1 activity may be a therapeutic strategy for the treatment of MCL, particularly in cases with high MALT1 activity.",
+"EXPERIMENT": {
+"Title": "Validation of MALT1 inhibition as a therapeutic strategy for MCL",
+"Objective": "To investigate the efficacy of MALT1 inhibition in reducing tumor growth in a mouse xenograft model of MCL.",
+"Equipment": "MALT1 inhibitor (z-VRPR-fmk), MCL cell lines, mouse xenograft model, Western blotting equipment, cell viability assay equipment.",
+"Steps": [
+"1. Establish a mouse xenograft model of MCL using MALT1-activated MCL cell lines.",
+"2. Treat the mice with z-VRPR-fmk or vehicle control.",
+"3. Monitor tumor growth and measure MALT1 activity and MYC protein levels in tumor biopsies.",
+"4. Perform Western blotting and cell viability assays to confirm the effects of MALT1 inhibition on MYC protein levels and cell survival."
+]
+},
+"KEYWORDS": [
+"Mantle cell lymphoma",
+"MALT1",
+"MYC",
+"B-cell receptor",
+"Signal transduction",
+"Proteolytic activity",
+"Cell survival",
+"Apoptosis",
+"Xenograft model",
+"Therapeutic strategy"
+]
+}

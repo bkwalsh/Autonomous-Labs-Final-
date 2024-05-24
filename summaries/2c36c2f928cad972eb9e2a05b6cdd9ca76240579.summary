@@ -1,0 +1,30 @@
+{
+"TITLE": "Dual stimulation by autoantigen and CpG fosters the proliferation of exhausted rheumatoid factor-specific CD21low B cells in hepatitis C virus-cured mixed cryoglobulinemia",
+"YEAR": 2023,
+"KEY FINDINGS": "The study found that co-stimulation with autoantigen and CpG restored the capacity of exhausted VH1-69pos B cells to proliferate in HCV-cured mixed cryoglobulinemia patients.",
+"MAIN RESULT": "The simultaneous stimulation of TLR9 and BCR with CpG and autoantigen, respectively, led to the proliferation of VH1-69pos B cells that were previously unresponsive to TLR9 stimulation alone.",
+"HYPOTHESIS": "The study proposes that the crosstalk between BCR and TLR9 signaling pathways may be a general mechanism enhancing systemic autoimmunity by rescuing exhausted autoreactive B cells.",
+"EXPERIMENT": {
+"Title": "Validation of BCR/TLR9 crosstalk in autoreactive B cells",
+"Objective": "To investigate the molecular mechanisms underlying the BCR/TLR9 crosstalk in autoreactive B cells.",
+"Equipment": "Flow cytometer, cell culture facilities, antibodies to CD20, IgM, VH1-69, TLR9, and p65 NF-kB, CpG ODN 2006, F(ab')2 anti-human Ig, and IVIg.",
+"Steps": [
+"1. Isolate B cells from HCV-cured mixed cryoglobulinemia patients and healthy donors.",
+"2. Stimulate B cells with CpG ODN 2006, F(ab')2 anti-human Ig, and IVIg, alone or in combination.",
+"3. Analyze the phosphorylation of p65 NF-kB and AKT by flow cytometry.",
+"4. Investigate the expression of TLR9 mRNA and protein by qPCR and intracellular flow cytometry.",
+"5. Evaluate the proliferation and differentiation of VH1-69pos B cells by CFSE dilution assay and flow cytometry."
+]},
+"KEYWORDS": [
+"mixed cryoglobulinemia",
+"rheumatoid factor",
+"autoantigen",
+"CD21low B cells",
+"exhaustion",
+"BCR/TLR9 crosstalk",
+"hepatitis C virus",
+"systemic autoimmunity",
+"autoreactive B cells",
+"TLR9 signaling"
+]
+}

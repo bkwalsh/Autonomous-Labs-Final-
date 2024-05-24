@@ -1,0 +1,9 @@
+{
+"TITLE": "What Will B Will B: Identifying Molecular Determinants of Diverse B-Cell Fate Decisions Through Systems Biology",
+"YEAR": 2021,
+"KEY FINDINGS": "The paper reviews how systems biology modeling of B-cells and the molecular signaling networks controlling their fates is revealing the key determinants of cell-to-cell variability in B-cell destiny. The paper highlights the importance of NF-κB target genes in controlling B-cell fate decisions, including cell cycle, apoptosis, and differentiation.",
+"MAIN RESULT": "The paper shows that key molecular determinants of cell-to-cell variability in B-cell fate decisions are NF-κB target genes, and that pre-existing cell-to-cell differences best explain distributed single-cell NF-κB dynamics and the similar responses observed in daughter cells.",
+"HYPOTHESIS": "NF-κB target genes are the primary determinants of cell-to-cell variability in B-cell fate decisions, and that perturbing these genes will result in significant changes in B-cell proliferation and fate.",
+"EXPERIMENT": "To validate this hypothesis, a CRISPR-Cas9 genome editing approach can be used to knockout or knockdown NF-κB target genes (such as NFKBIA, MYC, IRF4, and AID) in B-cells. The edited B-cells can then be stimulated with B-cell receptor-independent stimuli and their fate decisions (proliferation, apoptosis, and differentiation) can be tracked using single-cell RNA-sequencing, flow cytometry, and time-lapse microscopy. The experiment would require a CRISPR-Cas9 genome editing system, B-cells, B-cell receptor-independent stimuli, single-cell RNA-sequencing equipment, flow cytometer, and time-lapse microscope.",
+"KEYWORDS": ["Systems Biology", "B-cells", "NF-κB", "Cell Fate Decisions", "Cell-to-Cell Variability", "Molecular Determinants", "Cell Cycle", "Apoptosis", "Differentiation", "Single-Cell Analysis"]
+}

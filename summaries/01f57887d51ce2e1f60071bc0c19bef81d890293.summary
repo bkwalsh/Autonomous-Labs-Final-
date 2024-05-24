@@ -1,0 +1,9 @@
+{
+"TITLE": "TARGETING DIACLYGLYCEROL KINASE ALPHA AND ZETA BY SELF DELIVERING RNAI TO OPTIMIZE T LYMPHOCYTES FOR ADOPTIVE THERAPY OF SOLID TUMORS",
+"YEAR": 2021,
+"KEY FINDINGS": "The paper presents a novel RNA interference (RNAi) technology that can specifically target each diacylglycerol kinase (DGK) isoform, which are promising targets for the optimization of T cell activity in adoptive cell therapy (ACT) of solid tumors.",
+"MAIN RESULT": "The INTASYL self-delivering RNAi compounds showed good toxicity profile, efficient silencing of DGK-a and DGK-z, and enhanced T cell function, making them a promising approach to target intracellular immune checkpoints.",
+"HYPOTHESIS": "Targeting DGK-a and DGK-z using RNAi technology can improve the efficacy of adoptive T cell therapy in solid tumors by enhancing T cell function and overcoming the immunosuppressive tumor microenvironment.",
+"EXPERIMENT": "To validate this hypothesis, an experiment can be designed to test the efficacy of DGK-a and DGK-z RNAi in a mouse model of solid tumor. The experiment would involve: 1) generating DGK-a and DGK-z RNAi compounds using the INTASYL technology, 2) administering the RNAi compounds to mice with established tumors, 3) analyzing T cell function and tumor growth using flow cytometry and bioluminescence imaging, respectively, 4) comparing the results to a control group receiving a scrambled RNAi. Required equipment: INTASYL RNAi compounds, mouse model of solid tumor, flow cytometer, bioluminescence imaging system.",
+"KEYWORDS": ["Diacylglycerol kinase", "RNA interference", "Adoptive T cell therapy", "Solid tumors", "Immune checkpoints", "T cell function", "Tumor microenvironment", "INTASYL technology", "Cancer immunotherapy", "Gene silencing"]
+}

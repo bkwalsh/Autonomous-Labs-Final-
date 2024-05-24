@@ -1,0 +1,28 @@
+{
+"TITLE": "DEXTERTM MICROFLUIDIC PLATFORM COUPLING SINGLE-CELL RESOLUTION OF DYNAMIC TUMOR-IMMUNE INTERACTION WITH AI FOR ELUCIDATING MECHANISTIC MODULATION IN CANCER IMMUNOTHERAPY",
+"YEAR": 2021,
+"KEY FINDINGS": "The paper describes the development of a novel microfluidic platform, DexterTM, that integrates single-cell sorting and functional interactions between different immune cells and tumors, and is coupled with AI to provide mechanistic insights into tumor-immune interactions at the single-cell level.",
+"MAIN RESULT": "The platform enables the capture of dynamic tumor-immune interactions, including antigen uptake and presentation, functional activation of immune cells, and killing of target tumor cells, and demonstrates the ability to identify driver modulation linked to predicted therapy response.",
+"HYPOTHESIS": "The integration of AI-guided matrix with features from polyfunctional modulation can accurately predict therapy response and identify driver modulation in cancer immunotherapy.",
+"EXPERIMENT TO VALIDATE HYPOTHESIS": "To validate this hypothesis, an experiment can be designed to test the predictive power of the DexterTM platform in a clinical setting. The experiment would involve:
+
+* Collecting blood samples from cancer patients undergoing immunotherapy
+* Isolating immune cells and tumor cells from the samples
+* Using the DexterTM platform to analyze the dynamic tumor-immune interactions and identify driver modulation
+* Comparing the predicted therapy response with the actual clinical outcome
+* Validating the results using machine learning algorithms and statistical analysis
+
+Required equipment: DexterTM microfluidic platform, AI-guided matrix software, flow cytometer, cell sorter, and statistical analysis software.",
+"KEYWORDS": [
+"Microfluidic platform",
+"Cancer immunotherapy",
+"Single-cell resolution",
+"Tumor-immune interaction",
+"AI-guided matrix",
+"Polyfunctional modulation",
+"Driver modulation",
+"Therapy response",
+"Immunotherapy",
+"Cancer treatment"
+]
+}

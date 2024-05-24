@@ -1,0 +1,22 @@
+{
+"TITLE": "Pathogenic role of B-cell receptor signaling and canonical NF-kB activation in mantle cell lymphoma",
+"YEAR": 2016,
+"KEY FINDINGS": "The study found that B-cell receptor (BCR) and canonical NF-kB signaling pathways are activated in mantle cell lymphoma (MCL) cells in the lymph node microenvironment, and that this activation is associated with inferior survival in patients. The study also identified mutations and polymorphisms in BCR and NF-kB pathways that may confer cell-autonomous signaling and affect response to ibrutinib.",
+"MAIN RESULT": "BCR and canonical NF-kB signaling pathways are activated in MCL cells in the lymph node microenvironment, and this activation is associated with inferior survival in patients.",
+"HYPOTHESIS": "The activation of BCR and canonical NF-kB signaling pathways in MCL cells in the lymph node microenvironment is driven by specific microenvironmental cues, such as antigen presentation or cytokine signaling.",
+"EXPERIMENT": "To validate this hypothesis, an experiment could be designed to co-culture MCL cells with lymph node stromal cells or antigen-presenting cells, and measure the activation of BCR and NF-kB signaling pathways in the MCL cells. The experiment would require the following equipment and steps:
+
+* MCL cell lines or primary MCL cells
+* Lymph node stromal cells or antigen-presenting cells
+* Co-culture system (e.g. transwell plates)
+* Antibodies and reagents for flow cytometry and Western blotting
+* RNA extraction and qRT-PCR reagents
+
+Steps:
+
+1. Co-culture MCL cells with lymph node stromal cells or antigen-presenting cells for 24-48 hours.
+2. Measure the activation of BCR and NF-kB signaling pathways in the MCL cells using flow cytometry and Western blotting.
+3. Analyze the expression of genes involved in BCR and NF-kB signaling pathways using qRT-PCR.
+4. Compare the results to MCL cells cultured alone or with other cell types to determine the specificity of the microenvironmental cues.",
+"KEYWORDS": ["Mantle cell lymphoma", "B-cell receptor signaling", "NF-kB signaling", "Lymph node microenvironment", "Ibrutinib", "Cancer", "Immunology", "Signal transduction", "Gene expression", "Cell culture"]
+}

@@ -1,0 +1,9 @@
+{
+"TITLE": "Systematic evaluation of intratumoral and peripheral BCR repertoires in three cancers",
+"YEAR": 2023,
+"KEY FINDINGS": "The study found that the tumor BCR repertoire is closely related to that of draining lymph nodes, both in clonal composition and isotype proportion. The CDR3 properties indicate a less mature and less specific BCR repertoire of tumor-infiltrating B cells compared to circulating B cells. BCR clonotypes that expand in a tumor relative to other tissues are, on average, less hypermutated than non-expanded (ubiquitous) clonotypes.",
+"MAIN RESULT": "The study provides a comprehensive evaluation of the relationships between BCR repertoires in tumors, draining lymph nodes, and peripheral blood in three types of cancer.",
+"HYPOTHESIS": "The less mature and less specific BCR repertoire of tumor-infiltrating B cells may be due to a less stringent control for antibody-producing B cell development in the tumor microenvironment.",
+"EXPERIMENT": "To validate this hypothesis, an experiment can be designed to compare the BCR repertoire of tumor-infiltrating B cells with that of B cells from peripheral blood and draining lymph nodes in the same patients. The experiment would require: 1) tumor, lymph node, and blood samples from cancer patients; 2) RNA extraction and sequencing of the BCR repertoire; 3) bioinformatic analysis of the repertoire data to compare the CDR3 properties and clonality of the BCR repertoire between the three tissues. The experiment would be performed using a high-throughput sequencing platform, such as Illumina, and bioinformatic tools, such as VDJtools and Cytoscape.",
+"KEYWORDS": ["BCR repertoire", "tumor-infiltrating B cells", "draining lymph nodes", "peripheral blood", "cancer", "immunoglobulin", "CDR3", "somatic hypermutation", "clonality", "antibody-producing B cells"]
+}

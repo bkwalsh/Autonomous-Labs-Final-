@@ -1,0 +1,9 @@
+{
+"TITLE": "A Novel Gene Delivery Vector of Agonistic Anti-Radioprotective 105 Expressed on Cell Membranes Shows Adjuvant Effect for DNA Immunization Against Influenza",
+"YEAR": 2020,
+"KEY FINDINGS": "The study demonstrates the adjuvant effect of a novel gene delivery vector, aRP105-TM, which is a recombinant anti-RP105 monoclonal antibody bound to the transmembrane domain of the IgG-B cell receptor. This vector can induce potent and rapid antibody responses against influenza hemagglutinin (HA) in mice, providing protection against lethal influenza virus infection.",
+"MAIN RESULT": "The aRP105-TM vector induced significant levels of HA-specific IgG and IgM antibodies in mice, which were associated with protection against lethal influenza virus infection.",
+"HYPOTHESIS": "The aRP105-TM vector may enhance the activation of B cells by cross-linking RP105 on the cell surface, leading to the induction of potent antibody responses.",
+"EXPERIMENT": "To validate this hypothesis, an experiment can be designed to test the effect of aRP105-TM on B cell activation. The experiment would involve transfecting B cells with aRP105-TM and measuring the expression of activation markers such as CD86 and CD69 using flow cytometry. The experiment would require the following equipment and reagents: B cells, aRP105-TM plasmid, transfection reagent, flow cytometer, and antibodies against CD86 and CD69. The steps to follow would be: 1) transfect B cells with aRP105-TM plasmid, 2) incubate the cells for 24-48 hours, 3) stain the cells with antibodies against CD86 and CD69, 4) analyze the cells using flow cytometry, and 5) compare the expression of activation markers between aRP105-TM-transfected and control cells.",
+"KEYWORDS": ["Radioprotective 105", "Agonistic antibody", "Gene delivery vector", "DNA immunization", "Influenza", "Hemagglutinin", "B cell activation", "Adjuvant effect", "Monoclonal antibody", "Transmembrane domain"]
+}

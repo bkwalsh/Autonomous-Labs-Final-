@@ -1,0 +1,31 @@
+{
+"TITLE": "Ibex: Variational autoencoder for single-cell BCR sequencing",
+"YEAR": 2023,
+"KEY FINDINGS": "The paper presents Ibex, a novel R package that uses variational autoencoders to encode B cell receptor (BCR) sequences into a lower-dimensional latent space, enabling the integration of BCR sequences with single-cell RNA sequencing data.",
+"MAIN RESULT": "Ibex can accurately encode BCR sequences and integrate them with single-cell RNA sequencing data, allowing for the identification of clonal lineages and the analysis of B cell development and function.",
+"HYPOTHESIS": "The use of Ibex to integrate BCR sequences with single-cell RNA sequencing data can reveal novel insights into the development and function of B cells in health and disease.",
+"EXPERIMENT": {
+"Title": "Validating Ibex for B cell development and function",
+"Objective": "To validate the use of Ibex for integrating BCR sequences with single-cell RNA sequencing data and to identify novel insights into B cell development and function.",
+"Equipment": "Single-cell RNA sequencing platform, BCR sequencing platform, Ibex R package, computational resources for data analysis.",
+"Steps": [
+"1. Isolate B cells from healthy donors and patients with B cell-related disorders.",
+"2. Perform single-cell RNA sequencing and BCR sequencing on the isolated B cells.",
+"3. Use Ibex to encode the BCR sequences and integrate them with the single-cell RNA sequencing data.",
+"4. Analyze the integrated data using dimensionality reduction techniques (e.g. UMAP) and clustering algorithms to identify novel patterns and correlations.",
+"5. Validate the findings using functional assays (e.g. cell sorting, flow cytometry) and compare to existing knowledge of B cell development and function."
+]
+},
+"KEYWORDS": [
+"Single-cell RNA sequencing",
+"BCR sequencing",
+"Variational autoencoder",
+"Ibex",
+"B cell development",
+"B cell function",
+"Immune repertoire",
+"Single-cell analysis",
+"Integrative genomics",
+"Machine learning"
+]
+}

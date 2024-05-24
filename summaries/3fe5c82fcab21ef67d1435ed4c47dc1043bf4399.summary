@@ -1,0 +1,30 @@
+{
+"TITLE": "Siglec-8 Signals Through a Non-Canonical Pathway to Cause Human Eosinophil Death In Vitro",
+"YEAR": 2021,
+"KEY FINDINGS": "Siglec-8 engagement on IL-5-primed human eosinophils induces cell death through a non-canonical pathway involving Src family kinases, Syk, SHIP1, and Btk, but not SHP-1/2, and requires actin rearrangement.",
+"MAIN RESULT": "Siglec-8 signals through a non-canonical pathway to cause human eosinophil death, challenging the expectation that ITIM-bearing Siglecs signal through inhibitory pathways involving protein tyrosine phosphatases.",
+"HYPOTHESIS": "Siglec-8 may interact with and activate Btk through a novel adapter protein, leading to the activation of downstream signaling molecules and ultimately cell death.",
+"EXPERIMENT": {
+"Title": "Co-immunoprecipitation of Siglec-8 and Btk with a novel adapter protein",
+"Objective": "To identify a novel adapter protein that interacts with Siglec-8 and Btk, leading to the activation of Btk and downstream signaling molecules.",
+"Equipment": "Eosinophils, Siglec-8 antibody, Btk antibody, novel adapter protein antibody, protein A/G beads, lysis buffer, western blot equipment",
+"Steps": [
+"1. Isolate eosinophils and prime them with IL-5.",
+"2. Treat eosinophils with Siglec-8 antibody and lyse them.",
+"3. Perform co-immunoprecipitation using Siglec-8 antibody, Btk antibody, and novel adapter protein antibody.",
+"4. Analyze the immunoprecipitates by western blot for the presence of Siglec-8, Btk, and the novel adapter protein.",
+"5. Validate the interaction by reciprocal co-immunoprecipitation and mass spectrometry."
+]},
+"KEYWORDS": [
+"Siglec-8",
+"Eosinophil",
+"Cell death",
+"Non-canonical pathway",
+"Src family kinases",
+"Syk",
+"SHIP1",
+"Btk",
+"Actin rearrangement",
+"ITIM-bearing Siglecs"
+]
+}

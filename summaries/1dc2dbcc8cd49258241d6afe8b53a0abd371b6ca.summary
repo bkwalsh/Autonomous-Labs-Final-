@@ -1,0 +1,9 @@
+{
+"TITLE": "LMBR1L regulates lymphopoiesis through Wnt/β-catenin signaling",
+"YEAR": 2019,
+"KEY FINDINGS": "LMBR1L is essential for lymphopoiesis, and its deficiency leads to impaired development of all lymphoid lineages, compromised antibody responses, and reduced cytotoxic T lymphocyte killing activity. LMBR1L negatively regulates Wnt/β-catenin signaling by promoting the degradation of Wnt receptors and β-catenin.",
+"MAIN RESULT": "LMBR1L is a negative regulator of Wnt/β-catenin signaling in lymphocytes, and its deficiency leads to aberrant Wnt/β-catenin activation, impaired lymphopoiesis, and functional defects in lymphoid cells.",
+"HYPOTHESIS": "The LMBR1L-GP78-UBAC2 complex interacts with the canonical destruction complex to regulate Wnt/β-catenin signaling in lymphocytes.",
+"EXPERIMENT": "To validate this hypothesis, a co-immunoprecipitation experiment can be performed to investigate the interaction between the LMBR1L-GP78-UBAC2 complex and the canonical destruction complex components (e.g., Axin1, DVL2, β-TrCP, GSK-3α, and CK1) in lymphocytes. Required equipment: antibodies against LMBR1L, GP78, UBAC2, and destruction complex components; protein A/G beads; lysis buffer; and Western blotting reagents. Steps: 1) Immunoprecipitate LMBR1L from lymphocyte lysates using anti-LMBR1L antibody. 2) Perform Western blotting to detect the presence of GP78, UBAC2, and destruction complex components in the immunoprecipitate. 3) Repeat the experiment using antibodies against destruction complex components to immunoprecipitate and detect LMBR1L, GP78, and UBAC2.",
+"KEYWORDS": ["LMBR1L", "Wnt/β-catenin signaling", "lymphopoiesis", "lymphoid development", "immune system", "GP78", "UBAC2", "destruction complex", "Wnt receptors", "β-catenin", "lymphocyte development"]
+}

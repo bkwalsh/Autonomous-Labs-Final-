@@ -1,0 +1,9 @@
+{
+"TITLE": "Engagement of the B-cell receptor of chronic lymphocytic leukemia cells drives global and MYC-specific mRNA translation",
+"YEAR": 2016,
+"KEY FINDINGS": "BCR stimulation promotes mRNA translation in CLL cells, including of the oncoprotein MYC, and is inhibited by ibrutinib or tamatinib. Differences in mechanisms of regulation of mRNA translation in CLL and normal blood B cells may highlight potential targets for therapy.",
+"MAIN RESULT": "BCR stimulation increases global mRNA translation in CLL cells, which is associated with increased expression of translation initiation factors eIF4A and eIF4GI, and reduced expression of the eIF4A inhibitor, PDCD4.",
+"HYPOTHESIS": "Inhibiting eIF4A activity may selectively target CLL cells and spare normal B cells, providing a potential therapeutic strategy.",
+"EXPERIMENT": "To validate this hypothesis, perform a small molecule screen to identify eIF4A inhibitors that selectively inhibit mRNA translation in CLL cells compared to normal B cells. Required equipment: eIF4A inhibitor library, CLL cells, normal B cells, metabolic labeling reagents, flow cytometer. Steps: 1) Treat CLL cells and normal B cells with eIF4A inhibitors and measure mRNA translation using metabolic labeling. 2) Analyze the effects of eIF4A inhibitors on CLL cell viability and normal B cell viability using flow cytometry. 3) Identify eIF4A inhibitors that selectively inhibit mRNA translation in CLL cells and spare normal B cells.",
+"KEYWORDS": ["Chronic Lymphocytic Leukemia", "B-cell receptor", "mRNA translation", "MYC", "eIF4A", "ibrutinib", "tamatinib", "BCR stimulation", "mRNA translation initiation", "cancer therapy"]
+}
